@@ -23,7 +23,7 @@ Original file is located at
 Este notebook apresenta a leitura, inspeção, pré-processamento e análise exploratória do dataset **Spotify Tracks Dataset**, disponibilizado publicamente no Kaggle. O objetivo é identificar problemas nos dados, aplicar técnicas de limpeza e transformação, calcular estatísticas descritivas e analisar relações entre atributos musicais, de forma a obter um conjunto de dados mais consistente e adequado para análise.
 """
 
-!pip install pandas numpy matplotlib seaborn scikit-learn
+#!pip install pandas numpy matplotlib seaborn scikit-learn
 
 """## 0 - Imports e Configurações Visuais"""
 
